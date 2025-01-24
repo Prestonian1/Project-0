@@ -2,6 +2,8 @@
 
 ## Name : Preston Thronson
 
-## Repo Link : [Here](https://github.com/Prestonian1/Project-0)
+## This Repo's Link : [Here](https://github.com/Prestonian1/Project-0)
+
+## My Repo Library Link : [Here](https://github.com/Prestonian1?tab=repositories)
 
 ## Screencast Video : [Here]()
