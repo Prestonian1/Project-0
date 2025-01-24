@@ -56,6 +56,7 @@ public class LabProgram{
 		System.out.println("               /_|.-'\\ ,\".             '.'`__'-( \\");
 		System.out.println("                 / ,\"'\"\\,'               `/  `-.|\"");
 		System.out.println("                           I Choose You!");
+		System.out.println("                           Gotta Catch em All!");
 
 	}
 }
